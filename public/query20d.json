@@ -1,0 +1,702 @@
+[
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:28:14.795 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 8279,
+    "ServerLatencyMs": 68,
+    "ClientLatencyMs": 8211
+  },
+  {
+    "TimeGenerated [UTC]": "5/19/2022, 4:32:52.341 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 4063,
+    "ServerLatencyMs": 67,
+    "ClientLatencyMs": 3996
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:59:55.034 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 1753,
+    "ServerLatencyMs": 806,
+    "ClientLatencyMs": 947
+  },
+  {
+    "TimeGenerated [UTC]": "5/19/2022, 4:32:02.071 AM",
+    "OperationName": "PutBlob",
+    "DurationMs": 1532,
+    "ServerLatencyMs": 214,
+    "ClientLatencyMs": 1318
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:22:24.315 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 1417,
+    "ServerLatencyMs": 38,
+    "ClientLatencyMs": 1379
+  },
+  {
+    "TimeGenerated [UTC]": "5/6/2022, 11:24:05.535 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 1002,
+    "ServerLatencyMs": 1002,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/9/2022, 4:46:01.113 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 888,
+    "ServerLatencyMs": 888,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:29:14.250 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 868,
+    "ServerLatencyMs": 52,
+    "ClientLatencyMs": 816
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:33:28.985 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 866,
+    "ServerLatencyMs": 780,
+    "ClientLatencyMs": 86
+  },
+  {
+    "TimeGenerated [UTC]": "5/6/2022, 8:49:41.818 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 864,
+    "ServerLatencyMs": 863,
+    "ClientLatencyMs": 1
+  },
+  {
+    "TimeGenerated [UTC]": "5/19/2022, 4:22:08.498 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 847,
+    "ServerLatencyMs": 847,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:33:39.608 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 805,
+    "ServerLatencyMs": 68,
+    "ClientLatencyMs": 737
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:24:18.539 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 729,
+    "ServerLatencyMs": 667,
+    "ClientLatencyMs": 62
+  },
+  {
+    "TimeGenerated [UTC]": "5/17/2022, 4:08:43.455 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 695,
+    "ServerLatencyMs": 695,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:06:44.150 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 689,
+    "ServerLatencyMs": 689,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:33:29.609 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 626,
+    "ServerLatencyMs": 279,
+    "ClientLatencyMs": 347
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:27:56.996 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 617,
+    "ServerLatencyMs": 122,
+    "ClientLatencyMs": 495
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:24:40.132 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 585,
+    "ServerLatencyMs": 46,
+    "ClientLatencyMs": 539
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:21:41.475 AM",
+    "OperationName": "PutBlob",
+    "DurationMs": 470,
+    "ServerLatencyMs": 83,
+    "ClientLatencyMs": 387
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:20:06.730 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 468,
+    "ServerLatencyMs": 468,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:36:21.806 AM",
+    "OperationName": "BlobPreflightRequest",
+    "DurationMs": 453,
+    "ServerLatencyMs": 453,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:59:52.847 AM",
+    "OperationName": "BlobPreflightRequest",
+    "DurationMs": 386,
+    "ServerLatencyMs": 386,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/9/2022, 4:55:18.792 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 371,
+    "ServerLatencyMs": 368,
+    "ClientLatencyMs": 3
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:27:07.889 AM",
+    "OperationName": "PutBlob",
+    "DurationMs": 324,
+    "ServerLatencyMs": 85,
+    "ClientLatencyMs": 239
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:24:18.875 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 320,
+    "ServerLatencyMs": 49,
+    "ClientLatencyMs": 271
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:10:02.069 AM",
+    "OperationName": "PutBlob",
+    "DurationMs": 312,
+    "ServerLatencyMs": 84,
+    "ClientLatencyMs": 228
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:22:26.565 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 308,
+    "ServerLatencyMs": 81,
+    "ClientLatencyMs": 227
+  },
+  {
+    "TimeGenerated [UTC]": "5/6/2022, 8:57:51.654 AM",
+    "OperationName": "PutBlob",
+    "DurationMs": 300,
+    "ServerLatencyMs": 90,
+    "ClientLatencyMs": 210
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 10:01:12.334 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 293,
+    "ServerLatencyMs": 104,
+    "ClientLatencyMs": 189
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:19:47.526 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 278,
+    "ServerLatencyMs": 13,
+    "ClientLatencyMs": 265
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:22:53.637 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 240,
+    "ServerLatencyMs": 36,
+    "ClientLatencyMs": 204
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:28:06.526 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 148,
+    "ServerLatencyMs": 70,
+    "ClientLatencyMs": 78
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:24:39.216 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 147,
+    "ServerLatencyMs": 38,
+    "ClientLatencyMs": 109
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:24:39.072 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 138,
+    "ServerLatencyMs": 43,
+    "ClientLatencyMs": 95
+  },
+  {
+    "TimeGenerated [UTC]": "5/19/2022, 4:32:48.267 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 132,
+    "ServerLatencyMs": 64,
+    "ClientLatencyMs": 68
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:19:47.227 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 121,
+    "ServerLatencyMs": 72,
+    "ClientLatencyMs": 49
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:29:13.366 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 117,
+    "ServerLatencyMs": 71,
+    "ClientLatencyMs": 46
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:35:01.390 AM",
+    "OperationName": "PutBlob",
+    "DurationMs": 106,
+    "ServerLatencyMs": 7,
+    "ClientLatencyMs": 99
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:11:49.624 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 102,
+    "ServerLatencyMs": 8,
+    "ClientLatencyMs": 94
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:22:26.241 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 90,
+    "ServerLatencyMs": 41,
+    "ClientLatencyMs": 49
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:22:53.374 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 82,
+    "ServerLatencyMs": 35,
+    "ClientLatencyMs": 47
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:39:56.310 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 75,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 72
+  },
+  {
+    "TimeGenerated [UTC]": "5/9/2022, 4:55:18.394 AM",
+    "OperationName": "BlobPreflightRequest",
+    "DurationMs": 74,
+    "ServerLatencyMs": 74,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/6/2022, 9:06:52.324 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 74,
+    "ServerLatencyMs": 73,
+    "ClientLatencyMs": 1
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:54:55.575 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 61,
+    "ServerLatencyMs": 11,
+    "ClientLatencyMs": 50
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:39:56.238 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 55,
+    "ServerLatencyMs": 5,
+    "ClientLatencyMs": 50
+  },
+  {
+    "TimeGenerated [UTC]": "5/6/2022, 8:56:37.671 AM",
+    "OperationName": "ListContainers",
+    "DurationMs": 45,
+    "ServerLatencyMs": 42,
+    "ClientLatencyMs": 3
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:36:21.888 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 40,
+    "ServerLatencyMs": 5,
+    "ClientLatencyMs": 35
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:36:22.968 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 40,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 36
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:20:48.902 AM",
+    "OperationName": "GetBlob",
+    "DurationMs": 40,
+    "ServerLatencyMs": 10,
+    "ClientLatencyMs": 30
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:35:01.527 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 40,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 37
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:54:26.814 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 38,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 34
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:33:02.686 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 38,
+    "ServerLatencyMs": 7,
+    "ClientLatencyMs": 31
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:40:49.818 AM",
+    "OperationName": "PutBlob",
+    "DurationMs": 37,
+    "ServerLatencyMs": 7,
+    "ClientLatencyMs": 30
+  },
+  {
+    "TimeGenerated [UTC]": "5/14/2022, 1:16:51.388 PM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 37,
+    "ServerLatencyMs": 36,
+    "ClientLatencyMs": 1
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:59:59.962 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 35,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 31
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:40:49.917 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 34,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 30
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:40:27.622 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 34,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 30
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:32:58.287 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 34,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 31
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:33:04.940 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 34,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 30
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:32:11.491 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 34,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 30
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:33:00.645 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 33,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 30
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:32:44.645 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 33,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 30
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:34:10.785 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 33,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 29
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:22:21.892 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 33,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 30
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:58:41.652 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 32,
+    "ServerLatencyMs": 5,
+    "ClientLatencyMs": 27
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:58:05.358 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 32,
+    "ServerLatencyMs": 6,
+    "ClientLatencyMs": 26
+  },
+  {
+    "TimeGenerated [UTC]": "5/6/2022, 9:06:39.343 AM",
+    "OperationName": "ListContainers",
+    "DurationMs": 32,
+    "ServerLatencyMs": 31,
+    "ClientLatencyMs": 1
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:29:56.897 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 31,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 27
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:11:36.386 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 31,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 28
+  },
+  {
+    "TimeGenerated [UTC]": "5/19/2022, 4:22:08.367 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 31,
+    "ServerLatencyMs": 5,
+    "ClientLatencyMs": 26
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:10:02.163 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 31,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 27
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:28:59.126 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 29,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 25
+  },
+  {
+    "TimeGenerated [UTC]": "5/19/2022, 4:22:35.296 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 29,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 26
+  },
+  {
+    "TimeGenerated [UTC]": "5/17/2022, 5:56:21.353 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 29,
+    "ServerLatencyMs": 5,
+    "ClientLatencyMs": 24
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:13:07.676 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 29,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 25
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:19:30.738 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 29,
+    "ServerLatencyMs": 5,
+    "ClientLatencyMs": 24
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:32:09.205 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 29,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 25
+  },
+  {
+    "TimeGenerated [UTC]": "5/19/2022, 4:32:02.187 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 28,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 25
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:29:49.641 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 28,
+    "ServerLatencyMs": 5,
+    "ClientLatencyMs": 23
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:06:43.777 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 27,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 23
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:20:06.806 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 26,
+    "ServerLatencyMs": 26,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/6/2022, 8:58:53.768 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 25,
+    "ServerLatencyMs": 11,
+    "ClientLatencyMs": 14
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:27:07.984 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 25,
+    "ServerLatencyMs": 3,
+    "ClientLatencyMs": 22
+  },
+  {
+    "TimeGenerated [UTC]": "5/17/2022, 4:09:25.112 AM",
+    "OperationName": "ListBlobs",
+    "DurationMs": 25,
+    "ServerLatencyMs": 4,
+    "ClientLatencyMs": 21
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:21:01.082 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 22,
+    "ServerLatencyMs": 22,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/6/2022, 9:03:21.366 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 22,
+    "ServerLatencyMs": 22,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:58:53.228 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 19,
+    "ServerLatencyMs": 19,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:20:06.794 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 19,
+    "ServerLatencyMs": 18,
+    "ClientLatencyMs": 1
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:55:52.508 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 18,
+    "ServerLatencyMs": 18,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:34:15.168 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 18,
+    "ServerLatencyMs": 18,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:29:47.930 AM",
+    "OperationName": "GetContainerProperties",
+    "DurationMs": 18,
+    "ServerLatencyMs": 18,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/6/2022, 8:53:34.604 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 18,
+    "ServerLatencyMs": 18,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 5:29:48.915 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 18,
+    "ServerLatencyMs": 18,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:20:38.299 AM",
+    "OperationName": "GetBlobProperties",
+    "DurationMs": 18,
+    "ServerLatencyMs": 18,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:25:56.180 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 16,
+    "ServerLatencyMs": 16,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/13/2022, 9:18:42.084 AM",
+    "OperationName": "GetContainerProperties",
+    "DurationMs": 15,
+    "ServerLatencyMs": 15,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/19/2022, 4:32:16.134 AM",
+    "OperationName": "GetContainerServiceMetadata",
+    "DurationMs": 15,
+    "ServerLatencyMs": 15,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/10/2022, 11:29:23.079 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 15,
+    "ServerLatencyMs": 15,
+    "ClientLatencyMs": 0
+  },
+  {
+    "TimeGenerated [UTC]": "5/16/2022, 4:19:29.570 AM",
+    "OperationName": "GetBlobServiceProperties",
+    "DurationMs": 15,
+    "ServerLatencyMs": 15,
+    "ClientLatencyMs": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "OperationName": "GetBlobServiceProperties",
+    "count_": 145
+  },
+  {
+    "OperationName": "BlobPreflightRequest",
+    "count_": 209
+  },
+  {
+    "OperationName": "GetBlob",
+    "count_": 32
+  },
+  {
+    "OperationName": "GetContainerProperties",
+    "count_": 195
+  },
+  {
+    "OperationName": "GetBlobProperties",
+    "count_": 63
+  },
+  {
+    "OperationName": "GetContainerServiceMetadata",
+    "count_": 145
+  },
+  {
+    "OperationName": "ListBlobs",
+    "count_": 60
+  },
+  {
+    "OperationName": "PutBlob",
+    "count_": 7
+  },
+  {
+    "OperationName": "GetBlobTags",
+    "count_": 27
+  },
+  {
+    "OperationName": "GetBlobMetadata",
+    "count_": 27
+  },
+  {
+    "OperationName": "ListContainers",
+    "count_": 36
+  },
+  {
+    "OperationName": "DeleteBlob",
+    "count_": 1
+  },
+  {
+    "OperationName": "GetContainerACL",
+    "count_": 7
+  },
+  {
+    "OperationName": "SetBlobMetadata",
+    "count_": 2
+  },
+  {
+    "OperationName": "SetBlobTags",
+    "count_": 2
+  },
+  {
+    "OperationName": "SetContainerACL",
+    "count_": 2
+  },
+  {
+    "OperationName": "SetContainerMetadata",
+    "count_": 1
+  },
+  {
+    "OperationName": "CreateContainer",
+    "count_": 1
+  }
+]

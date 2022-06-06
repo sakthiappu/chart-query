@@ -1,0 +1,26 @@
+[
+  {
+    "StatusText": "ContainerNotFound",
+    "count_": 44
+  },
+  {
+    "StatusText": "BlobNotFound",
+    "count_": 16
+  },
+  {
+    "StatusText": "InternalError",
+    "count_": 9
+  },
+  {
+    "StatusText": "UnknownError",
+    "count_": 5
+  },
+  {
+    "StatusText": "ResourceNotFound",
+    "count_": 3
+  },
+  {
+    "StatusText": "ConditionNotMet",
+    "count_": 1
+  }
+]
